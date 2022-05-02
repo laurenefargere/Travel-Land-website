@@ -1,0 +1,20 @@
+.button-blue {
+  color: white;
+  background-color: blue;
+  padding: 16px;
+  border: 1px solid blue;
+  border-radius: 5px;
+  display: block;
+  width: 25%;
+  text-align: center;
+}
+
+.button-blue:hover {
+  background-color: white;
+  color: blue;
+  transition: 1s;
+}
+
+.button: data-tf-popup‹{
+  Color:  white;
+}

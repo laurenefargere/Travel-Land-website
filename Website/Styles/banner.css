@@ -1,0 +1,35 @@
+#banner{
+	height: 90vh;
+	background-image:  url("../images/banner.jpeg");
+	background-size: cover;
+	background-position: bottom;
+	color:  white;
+	display:  flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+}
+
+#banner h1 {
+	text-shadow: 0px 0px 5px #000000;
+	color: #FFB6C1;
+	font-family: bold, Ms Madi;
+	font-size: 100px;
+}
+
+#banner h2{
+	text-shadow: 0px 0px 5px #000000;
+	color: #FFB6C1;
+	font-family: light, Open Sans;
+	font-size: 30px;
+	height: 5vh;
+}
+
+.banner-fixed{
+	height:  25vh;
+	background-image: url("../images/banner-fixed.jpg");
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+}
